@@ -17,5 +17,6 @@ KERNELS_TO_LOAD = ('$KERNELS/naif0009.tls',
                    '$KERNELS/cas_iss_v09.ti',
                    '$KERNELS/04135_04171pc_psiv2.bc',
                    '$KERNELS/cas_v37.tf',
-                   '$KERNELS/981005_PLTEPH-DE405S.bsp')
+                   '$KERNELS/981005_PLTEPH-DE405S.bsp',
+                   '$KERNELS/phoebe_64q.bds')
 
